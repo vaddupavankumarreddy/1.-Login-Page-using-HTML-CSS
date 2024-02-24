@@ -3,8 +3,7 @@ The Repository File Login Page is a user interface designed to authenticate user
 
 **Technologies Used:**
 
-HTML5: Utilized for structuring the layout and content of the login page.
-
+HTML5: Utilized for structuring the layout and content of the login page. 
 CSS3: Employed for styling elements and enhancing the visual appeal of the page.
 
 **How to Use:**
